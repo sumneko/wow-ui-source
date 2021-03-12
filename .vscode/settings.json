@@ -1,0 +1,11 @@
+{
+    "files.insertFinalNewline": false,
+    "files.trimFinalNewlines": false,
+    "Lua.develop.debuggerPort": 11428,
+    "Lua.develop.enable": true,
+    "Lua.runtime.version": "Lua 5.1",
+    "Lua.workspace.maxPreload": 2000,
+    "Lua.diagnostics.disable": [
+        "undefined-global"
+    ],
+}
